@@ -9,4 +9,13 @@
       <PackageReference Include="RabbitMQ.Client" Version="6.1.0" />
     </ItemGroup>
 
+    <PropertyGroup>
+        <Version>0.1</Version>
+        <Company>Pure Romance, LLC</Company>
+        <Authors>Rachel Ambler</Authors>
+        <Product>RabbitMqFacadeLibrary</Product>
+        <Description />
+        <Copyright>Copyright © 2020</Copyright>
+    </PropertyGroup>
+
 </Project>
